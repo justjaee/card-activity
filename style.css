@@ -1,0 +1,10 @@
+body {
+    background: lightpink !important;
+}
+h1 {
+    text-align: center !important;
+    font-family: georgia, sans-serif !important;
+    padding: 10px 10px;
+    color: brown !important;
+}
+
